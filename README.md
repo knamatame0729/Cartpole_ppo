@@ -2,7 +2,7 @@
 ## Installation and Usage
 
 ```bash
-conda create -n cart-pole-rl python3.11
+conda create -n cart-pole-rl python=3.11
 conda activate cart-pole-rl
 ```
 Install pytorch with matching CUDA version (CUDA 11.8 is utilized in this repo)
